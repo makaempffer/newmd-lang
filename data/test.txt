@@ -1,0 +1,4 @@
+# Hello World!
+' This is a paragraph?
+'_ This is a underlined paragraph!
+[#] This is an encased title
